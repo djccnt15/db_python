@@ -1,0 +1,7 @@
+{
+    "server": "127.0.0.1",
+    "port": "1433",
+    "user": "SA",
+    "password": "database_password",
+    "database": "mssql"
+}
